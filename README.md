@@ -1,4 +1,4 @@
-# vtiger-sms-gateway-center
+# VTiger SMS Gateway Center
 VTIGER SMS Notifier Extension with SMS Gateway Center
 
 ## SMS Gateway Center
