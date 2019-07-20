@@ -26,9 +26,13 @@ You should have installed SMS Message Module from the Modules Store.
 * Complete all the information requested in the form.
 
 **Provider** : Let's select SmsGatewayCenter from the Provider's drop-down list.
+
 **Active** : Lets check and activate SmsGatewayCenter provider.
+
 **User Name** : Your registered userId in SMS Gateway Center platform.
+
 **Password** : Password for your account.
+
 **Sender ID** : Enter your approved or desired sender id to send SMS from.
 
 Lets save the form and enabled the SmsGatewayCenter provider to send SMS locally and international.
@@ -38,10 +42,13 @@ Lets save the form and enabled the SmsGatewayCenter provider to send SMS locally
 To send SMS to records in the list view.
 
 Click on the desired module. For example: contacts or organizations.
+
 Select the desired records to which you want to send SMS. You can select records by clicking on the corresponding boxes that precede the records.
+
 Now click on the Actions > **Send SMS** drop-down menu
 
 Select the field where the mobile numbers of your contacts are stored.
+
 Now type your text message content and click on Send.
 
 ## Issues
